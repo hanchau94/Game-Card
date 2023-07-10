@@ -1,5 +1,5 @@
 # Game-Card
-My Card Game includes 6 people with 3 cards per person and you can choose how many rounds you want.
+My Card Game includes 3 cards per person and you can choose how many rounds you want.
 
 ----- Rule for 1 round    
     Rule 1: There may have many people win.
